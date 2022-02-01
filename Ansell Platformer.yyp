@@ -6,6 +6,7 @@
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},"order":3,},
     {"id":{"name":"HUD","path":"objects/HUD/HUD.yy",},"order":3,},
+    {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},"order":6,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
     {"id":{"name":"oEnemyProjectile","path":"objects/oEnemyProjectile/oEnemyProjectile.yy",},"order":5,},
     {"id":{"name":"sCoin","path":"sprites/sCoin/sCoin.yy",},"order":2,},
